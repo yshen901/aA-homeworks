@@ -1,1 +1,1 @@
-This repo contains all of my daily homeworks for App Academy.
+Daily homeworks for App Academy.
